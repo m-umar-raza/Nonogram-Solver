@@ -127,7 +127,7 @@ Tip: keep row clues and column clues the same length as your grid size (e.g. 10 
 
 ## 📜 10. License
 
-Released under the **MIT License** – you can reuse, remix, and share freely.
+This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for full terms.
 
 ---
 
